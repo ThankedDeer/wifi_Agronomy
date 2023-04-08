@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,600&display=swap');
+#nombre{
+    font-family: 'Kanit', sans-serif;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar {
+  background-color: #0197c4 !important;
+}
+
+.contenedor {
+    background: #f6f6f6;
+    width: 100vw;
+    height: 91vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+   
+    
+  }
