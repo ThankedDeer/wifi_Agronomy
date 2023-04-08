@@ -10,7 +10,11 @@
     "scope": "./",
     "lang": "es-MX",
     "icons": [
-      
+      {
+        "src": "./img/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
       {
         "src": "./img/256.png",
         "sizes": "256x256",
@@ -24,6 +28,16 @@
       {
         "src": "./img/64.png",
         "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/16.png",
+        "sizes": "16x16",
         "type": "image/png"
       }
     ]
