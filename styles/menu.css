@@ -6,9 +6,7 @@
     margin: 0px;
     padding: 0px;
 }
-.navbar {
-  background-color: #0197c4 !important;
-}
+
 
 #preview {
   display: none;
@@ -22,12 +20,25 @@
   background: -moz-linear-gradient(bottom, #0197c4, #010101);
   background: linear-gradient(to top, #0197c4, #010101);
   width: 100vw;
-  height: 91vh;
+  height: 93vh;
   display: grid;
   justify-content: center;
   align-items: center;
  
   
+}
+.navbar-brand{
+  color: white;
+  font-size: 15px;
+  font-family: 'Kanit', sans-serif;
+
+}
+
+#logout{
+  text-decoration: none;
+  font-size: 15px;
+  color: #0197c4;
+  font-family: 'Kanit', sans-serif;
 }
 #scanButton2 {
   display: none;

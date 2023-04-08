@@ -6,9 +6,7 @@
     margin: 0px;
     padding: 0px;
 }
-.navbar {
-  background-color: #0197c4 !important;
-}
+
 
 .contenedor {
     background: #f6f6f6;
@@ -20,3 +18,16 @@
    
     
   }
+  .navbar-brand{
+    color: white;
+    font-size: 15px;
+    font-family: 'Kanit', sans-serif;
+
+}
+
+#logout{
+    text-decoration: none;
+    font-size: 15px;
+    color: #0197c4;
+    font-family: 'Kanit', sans-serif;
+}
